@@ -1,1 +1,2 @@
-run! File.expand_path(File.join(File.basename(__FILE__),'..','bin','hangit'))
+run! "/opt/nodejs/0.10.28.bin/gulp"
+#run! File.expand_path(File.join(File.basename(__FILE__),'..','bin','hangit'))
