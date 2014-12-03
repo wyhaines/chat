@@ -1,5 +1,7 @@
 #!/usr/bin/ruby
 
-exit if fork
+# exit if fork
 
+sleep 300
+exit if fork
 sleep 300
